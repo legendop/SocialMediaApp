@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045874335990",
+    "project_id": "socialmediaapp-aac33",
+    "storage_bucket": "socialmediaapp-aac33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045874335990:android:d50f4aaec9355379708cd7",
+        "android_client_info": {
+          "package_name": "com.legendcoder.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045874335990-vuvattgl3e61h3tfeobhau1np19slmef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1SG_MnZZRhP9980qc-fXqjWSj5qjltw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045874335990-vuvattgl3e61h3tfeobhau1np19slmef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
